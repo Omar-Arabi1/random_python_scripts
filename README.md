@@ -5,5 +5,5 @@ as the title says there will be some random python scripts here that may or may 
 - file conversions
   - [convert_vid.py](#convert_vid.py)
 
-## [convert_vid.py](#https://github.com/Omar-Arabi1/random_python_scripts/blob/main/file_conversions/convert_vid.py)
+## [convert_vid.py](#/home/omar-arabi/repos/random_python_scripts/file_conversions/convert_vid.py)
 lists all the files in the directory and converts the files that have the extention .webm to .mp4 and deletes the old .webm files
