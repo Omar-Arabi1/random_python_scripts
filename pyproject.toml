@@ -1,0 +1,10 @@
+[project]
+name = "random-python-scripts"
+version = "1.0.0"
+description = "random python scripts that may be helpful to someone"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "colorama>=0.4.6",
+    "moviepy>=2.2.1",
+]
